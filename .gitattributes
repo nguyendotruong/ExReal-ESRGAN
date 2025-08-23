@@ -1,0 +1,10 @@
+assets/* linguist-vendored
+docs/* linguist-vendored
+weights/* linguist-vendored
+
+*.cu linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
+
+*.ps1 linguist-vendored
+*.bat linguist-vendored
